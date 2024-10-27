@@ -41,7 +41,7 @@ git push origin feature/your-feature-name
 نحن ملتزمون بتوفير بيئة مفتوحة وشاملة للجميع. يُرجى مراجعة [ملف القواعد العامة CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) والالتزام بها.
 
 ## تواصل معنا
-إذا كان لديك أي أسئلة أو استفسارات، فلا تتردد في الاتصال بنا عبر [Discord](https://discord.com/invite/your_channel) أو افتح مشكلة (Issue) في المستودع.
+إذا كان لديك أي أسئلة أو استفسارات، فلا تتردد في الاتصال بنا عبر [Discord](https://discord.gg/kGkMTpDy) أو افتح مشكلة (Issue) في المستودع.
 
 ---
 
